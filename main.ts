@@ -1,6 +1,7 @@
 const ALLOWED_PREFIXES = [
   "https://nar.netkeiba.com/",
   "https://www.netkeiba.com/",
+  "https://race.netkeiba.com/",
 ];
 
 const UA =
